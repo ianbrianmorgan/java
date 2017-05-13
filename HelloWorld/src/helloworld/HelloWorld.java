@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package helloworld;
-
+//Comment
 /**
  *
  * @author ianmorgan
@@ -16,7 +16,6 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        //Added some comments
     }
     
 }

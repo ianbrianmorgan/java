@@ -12,7 +12,7 @@ public class Example {
 
     private static void hello() {
         //throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-        System.out.println("This is another example.");
+        System.out.println("This is an example of the main class calling the hello class.");
 
     }
     

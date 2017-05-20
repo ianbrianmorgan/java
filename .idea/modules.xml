@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlockTest/BlockTest.iml" filepath="$PROJECT_DIR$/BlockTest/BlockTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CharTest/CharTest.iml" filepath="$PROJECT_DIR$/CharTest/CharTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicInitialization/DynamicInitialization.iml" filepath="$PROJECT_DIR$/DynamicInitialization/DynamicInitialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example/Example.iml" filepath="$PROJECT_DIR$/Example/Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example2/Example2.iml" filepath="$PROJECT_DIR$/Example2/Example2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForTest/ForTest.iml" filepath="$PROJECT_DIR$/ForTest/ForTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfSample/IfSample.iml" filepath="$PROJECT_DIR$/IfSample/IfSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VariableConversion/VariableConversion.iml" filepath="$PROJECT_DIR$/VariableConversion/VariableConversion.iml" />
+    </modules>
+  </component>
+</project>

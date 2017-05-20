@@ -2,19 +2,19 @@
  * Copyright (C) Ian Morgan 2017 to Present
  * Code Written by Ian Morgan <ianbrianmorgan@outlook.com>
  */
-package fortest;
+package logicaloperators;
 
-public class ForTest {
+/**
+ *
+ * @author ianmorgan
+ */
+public class LogicalOperators {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
-        int x;
-        
-        for(x = 1; x < 10; x++)
-            System.out.println("This is x: " + x);
+        // TODO code application logic here
     }
     
 }

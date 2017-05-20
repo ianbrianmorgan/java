@@ -1,3 +1,7 @@
+/* 
+ * Copyright (C) Ian Morgan 2017 to Present
+ * Code Written by Ian Morgan <ianbrianmorgan@outlook.com>
+ */
 package variableconversion;
 
 public class VariableConversion {

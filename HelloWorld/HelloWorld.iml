@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) Ian Morgan 2017 to Present
+Code Written by Ian Morgan <ianbrianmorgan@outlook.com>
+-->
+
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />

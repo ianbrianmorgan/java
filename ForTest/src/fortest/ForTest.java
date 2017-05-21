@@ -13,6 +13,7 @@ public class ForTest {
         
         int x;
         
+        //condition checked at loop start
         for(x = 1; x < 10; x++)
             System.out.println("This is x: " + x);
     }

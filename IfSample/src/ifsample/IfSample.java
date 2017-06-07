@@ -29,7 +29,13 @@ public class IfSample {
             System.out.println("x is now greater than y");
         
         if (x==y)
-            System.out.println("You won't see this");                
+            System.out.println("You won't see this");        
+
+        boolean test = false;
+        if (test)
+            System.out.println("Test is true");
+        else
+            System.out.println("Test is false");
                 
     }
     
